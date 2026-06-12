@@ -32,7 +32,7 @@
   </limits>
 
 
-  <include ref="./dipole_field.xml"/>
+  <!--include ref="./dipole_field.xml"/-->
   <include ref="Tracker/Tracker_v0.xml"/>
   <include ref="ECALp/ECALp_v0.xml"/>
 
